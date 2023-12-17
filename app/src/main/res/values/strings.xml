@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NNRController</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Rules</string>
+    <string name="settings_fragment_label">Settings</string>
+    <string name="edit_fragment_label">Edit</string>
+    <string name="new_fragment_label">New</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+</resources>
